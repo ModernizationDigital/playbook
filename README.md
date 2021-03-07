@@ -1,42 +1,51 @@
-## About This Project
+## Hi Mary... 
 
-Hi Mary, this is one of many "just another test" for me. I'm trying to find a playbook template to start out with. I'm trying to see if I can set up a few for you to choose which would be a good starting point for us this month. Something functional w/out all the bells and whistles. Most don't have that. but still I'd like the layout to be something where we could start to create something engaging. testing. i used the terminal to update ruby to its latest version... 
+I want to try and set up a page frame with three columns; 
 
-----=
+Left - for our Menu; 
+Center - for content; with a 
+Right - 2 inch margin to use for our pop out drawer; for fun facts; definitions; links; case studies. 
 
-One way to advance smarter digital service delivery is by putting the right processes and practices in place to drive outcomes and accountability and allow people and companies to do their best work.  The Digital Services Playbook and the TechFAR Handbook document these best practices and processes: 
+Right Margin controls the width of our main content. So we don't end up with copy that flows too wide as the page is expanded by user. It's hard for the eye to follow long lines of text. that's why newspapers are layed out in columns. If you run copy the whole width of a page; it needs to be a different typography treatment (larger text). 
 
-- [**The Digital Services Playbook**](https://playbook.cio.gov/ "Link to the Digital Services Playbook") identifies a series of “plays” drawn from successful best practices from the private sector and government that, if followed together, will help government build effective digital services.  The plays outline an approach to delivering services that increases our ability to be flexible, iterative and, most importantly, to focus on the needs of the people that use our services.
-- [**The TechFAR Handbook**](https://techfarhub.cio.gov/handbook/ "Link to the TechFAR Handbook") highlights the flexibilities in the Federal Acquisition Regulation (FAR) that can help agencies implement “plays” from the Playbook that would be accomplished with acquisition support – with a particular focus on how to use contractors to support an iterative, customer-driven software development process, as is routinely done in the private sector.
+You can ignore the rest... its just from the template. 
 
-## We Want Your Feedback
-We encourage your feedback and suggestions on these documents. Content and feature suggestions and discussions are welcome via [GitHub Issues](https://github.com/WhiteHouse/playbook/issues). You may also propose changes to the content directly by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
+________
 
-You don't need to install any software to suggest a change. To propose a change from your browser, [select a play in the `_plays` folder](https://github.com/usds/playbook/tree/gh-pages/_plays "Link to the Plays Markdown files"). You can use GitHub's in-browser editor to edit files and submit a "pull request" for your changes to be merged into the document.
 
-If you would like to see and discuss the changes that other people have proposed, [visit the "Pull Requests" section](https://github.com/usds/playbook/pulls "Link to the Pull Requests Section of GitHub") and [browse the issues](https://github.com/WhiteHouse/playbook/issues "Link to the Issues Section of GitHub").
 
-## Technical Details
+You can use the [editor on GitHub](https://github.com/ModernizationDigital/ModernizationDigital.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-The Playbook is compiled from [Markdown](https://help.github.com/articles/github-flavored-markdown "Link to More Information About Markdown") files using [Jekyll](https://github.com/jekyll/jekyll "Link to More Information about Jekyll"). To propose a specific change, you can submit a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") with your change to one of these source Markdown files. The Plays from the Playbook are [available in the `_plays` folder](https://github.com/WhiteHouse/playbook/tree/gh-pages/_plays "Link to the Plays Markdown files").
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-You can also use Github's in-browser editing feature to make an edit to one of these Markdown files and submit your change for consideration without needing to install any additional software.
+### Markdown
 
-### Running the Site Locally
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-To run the site locally on your own computer (most helpful for previewing your own changes), you will need to install Jekyll and other dependencies:
+```markdown
+Syntax highlighted code block
 
-1. If you don't already have Ruby and Bundler installed, follow [the first two steps in these Jekyll installation instructions](https://help.github.com/articles/using-jekyll-with-pages#installing-jekyll "Installation instructions for Jekyll").
-2. Next, [fork this repository](https://help.github.com/articles/fork-a-repo/ "Instructions for Forking Your Repository") and clone it on your computer.
-3. Navigate to the folder on your computer, and run the command `bundle install` at the command line prompt.
+# Header 1
+## Header 2
+### Header 3
 
-To run the site locally, run `jekyll serve --watch`, then visit `http://localhost:4000/` in your browser to preview the site.
+- Bulleted
+- List
 
-### Editing the Stylesheets
+1. Numbered
+2. List
 
-This project uses [Sass](http://sass-lang.com/ "Link to Learn More About Sass") for managing its style sheets. These styles are defined in the [`styles.scss` file](assets/_sass/styles.scss). We use [Jekyll's native SASS support](https://jekyllrb.com/docs/assets/) to auto-generate the required CSS when you run the site locally, as described above.
+**Bold** and _Italic_ and `Code` text
 
-## License
-As a work of the United States Government, this project is in the public domain within the United States.
+[Link](url) and ![Image](src)
+```
 
-Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ModernizationDigital/ModernizationDigital.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
