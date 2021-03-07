@@ -1,6 +1,8 @@
 ## About This Project
 
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
+Hi Mary, this is one of many "just another test" for me. I'm trying to find a playbook template to start out with. I'm trying to see if I can set up a few for you to choose which would be a good starting point for us this month. Something functional w/out all the bells and whistles. Most don't have that. but still I'd like the layout to be something where we could start to create something engaging. testing. i used the terminal to update ruby to its latest version... 
+
+----=
 
 One way to advance smarter digital service delivery is by putting the right processes and practices in place to drive outcomes and accountability and allow people and companies to do their best work.  The Digital Services Playbook and the TechFAR Handbook document these best practices and processes: 
 
